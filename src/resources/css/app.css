@@ -1,0 +1,15 @@
+#logo {
+	max-width: 150px;
+}
+
+.user_name{
+    font-size:14px;
+    font-weight: bold;
+}
+.media{
+    border-bottom: 1px dotted #ccc;
+}
+
+.body{
+	background-color: black;
+}
